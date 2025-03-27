@@ -14,8 +14,8 @@ I'm a **Frontend Developer** with a passion for building seamless, interactive, 
 - 🔧 Experimenting with **Autonomous Drone Technology**
 
 ## 📫 Let's Connect
-- LinkedIn: [Yash  Sheorey]([#](https://www.linkedin.com/in/yash-sheorey-94661b28b/))
-- Github: [Your Handle](https://github.com/Flashl3opard)
+- LinkedIn: [Yash_Sheorey]([#](https://www.linkedin.com/in/yash-sheorey-94661b28b/))
+- Github: [Flashl3opard](https://github.com/Flashl3opard)
 - Portfolio: [Your Website](#)
 
 Looking forward to collaborating and building awesome projects together! ✨
