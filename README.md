@@ -22,12 +22,12 @@ I'm a **Frontend Developer** with a passion for building seamless, interactive, 
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vanshikaxxa&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Flashl3opard&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ## 📌 Languages Used in My Projects  
 <P align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshikaxxa&layout=compact&theme=radical" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flashl3opard&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
 
