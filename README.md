@@ -20,4 +20,15 @@ I'm a **Frontend Developer** with a passion for building seamless, interactive, 
 - Github: [Flashl3opard](https://github.com/Flashl3opard)
 - Portfolio: [Your Website](#)
 
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vanshikaxxa&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+## 📌 Languages Used in My Projects  
+<P align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshikaxxa&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+
 Looking forward to collaborating and building awesome projects together! ✨
