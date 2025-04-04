@@ -1,7 +1,8 @@
 # Hi there! 👋
 
 I'm a **Frontend Developer** with a passion for building seamless, interactive, and user-friendly web applications. I have a strong background in **IoT** and love working on projects that merge hardware and software. Currently, I'm actively involved in a **Web Developement**, exploring **manual mapping and autonomous navigation**.
- **Profile Views:** ![](https://komarev.com/ghpvc/?username=Flashl3opard&label=Profile%20views&color=0e75b6&style=flat)
+
+ ![Profile Views](https://komarev.com/ghpvc/?username=Flashl3opard&label=Profile%20Views&color=blue&style=for-the-badge)
 
 ## 🔧 Tech Stack
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS
