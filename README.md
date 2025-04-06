@@ -54,6 +54,9 @@ I'm a **Frontend Developer** with a passion for building seamless, interactive, 
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Flashl3opard&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+
+ <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Flashl3opard&" alt="FLASHL3OPARD" /></p>
 </p>
 
 ## 📌 Languages Used in My Projects  
