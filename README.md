@@ -67,11 +67,16 @@ I'm **Yash Sheorey**, a **Frontend Developer** and **Tech Enthusiast** with a pa
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flashl3opard&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flashl3opard&theme=radical" alt="GitHub Streak" />
-</p>
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Flashl3opard&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="296" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flashl3opard&layout=compact&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Flashl3opard&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 ## 📌 Top Languages  
 <p align="center">
