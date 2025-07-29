@@ -28,13 +28,12 @@ I'm **Yash Sheorey**, a **Frontend Developer** and **Tech Enthusiast** with a pa
 
 ## 💼 Ongoing Projects
 
-- 🚀 **Washify** – a smart full-stack laundry management system
-- 🧳 **Holiday Booking Platform** – built with admin, user, and staff panels
-- 🐞 **Bug Tracker System** – for reporting, assigning, and resolving issues with activity logs
-- 🧭 **Drone Navigation System** – for mapping environments manually and autonomously
-- 👨‍💻 **Competitive Profile Tracker** – pulls data from LeetCode, Codeforces, and CodeChef
+- 🚀 **Washify** – Full-stack smart laundry management platform with order tracking, admin dashboard, and user notifications  
+- 🐞 **Bug Tracker System** – Issue reporting and resolution platform with priority tagging, developer assignment, and real-time activity logs  
+- 🧭 **Autonomous Drone Navigation** – Indoor and outdoor mapping using manual and autonomous navigation for quadcopters  
+- 👨‍💻 **Competitive Coding Tracker** – Aggregates coding stats from LeetCode, Codeforces, and CodeChef with live profile syncing  
+- 🌐 **VibeXCode** – Community-driven coding platform with Appwrite authentication, real-time chat, and collaborative tools for developers  
 
----
 
 
 
