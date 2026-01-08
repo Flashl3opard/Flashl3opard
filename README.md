@@ -36,24 +36,6 @@ Always learning. Always shipping.
 
 ---
 
-## 💼 Featured Projects
-
-🚀 **Washify**  
-Smart laundry platform with tracking, admin dashboard, and notifications.
-
-🐞 **Bug Tracker System**  
-Issue reporting with priorities, assignments, dashboards, and activity logs.
-
-🧭 **Autonomous Drone Navigation**  
-Quadcopters with manual mapping + autonomous path planning.
-
-📊 **Competitive Coding Tracker**  
-Aggregates LeetCode, Codeforces, and CodeChef stats.
-
-🌐 **VibeXCode**  
-Community coding platform with Appwrite auth and real-time chat.
-
----
 
 ## 📊 GitHub Intelligence
 
