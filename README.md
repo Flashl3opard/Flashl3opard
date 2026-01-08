@@ -1,10 +1,14 @@
 # ⚡ Hi there, I’m Yash Sheorey 👋
 
+I’m a **Full-Stack Web Developer** who builds **production-ready web applications** — fast, scalable, and maintainable.
+
+My work spans **modern frontend frameworks**, **robust backend systems**, and **data-driven features**, with a strong focus on performance and developer experience.
+
 <div align="center">
 
-🧠 Frontend-Focused Full-Stack Developer  
-🚀 IoT • Real-Time Systems • Autonomous Tech  
-🌌 Dark • Neon • Cyber Aesthetic
+
+
+
 
 <!-- FIXED: valid hex color -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Flashl3opard&label=Profile%20Views&color=ff0055&style=for-the-badge)
