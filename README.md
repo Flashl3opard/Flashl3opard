@@ -68,6 +68,7 @@ Always learning. Always shipping.
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Flashl3opard&theme=onedark&no-frame=true&margin-w=10" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Flashl3opard&theme=nightowl&hide_border=false" />
 
 </div>
 
