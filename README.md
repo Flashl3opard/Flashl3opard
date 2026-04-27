@@ -11,7 +11,7 @@
 
 ### Full-Stack Engineer · TypeScript-first · MERN · Linux Kernel Contributor (LFX'25)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+real+products%2C+not+just+demos.;Next.js+%7C+TypeScript+%7C+MERN+Stack;LFX+%2725+%E2%80%94+Linux+Kernel+Contributor;3%E2%98%85+CodeChef+%5B1638%5D+%7C+Intern+%40+Akatsuki+AI;Always+shipping.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+real+products%2C+not+just+demos.;Next.js+%7C+TypeScript+%7C+MERN+%7C+FastAPI;LFX+%2725+%E2%80%94+Linux+Kernel+Contributor;Intern+%40+Akatsuki+AI+%7C+3%E2%98%85+CodeChef+%5B1638%5D;Always+shipping.)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Flashl3opard&label=Profile+Views&color=00d9ff&style=for-the-badge)](https://github.com/Flashl3opard)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-sheorey-94661b28b/)
@@ -26,18 +26,18 @@
 
 ```ts
 const yash: Developer = {
-  name:       "Yash Sheorey",
-  institute:  "IIIT Jabalpur · B.Tech '27",
-  role:       "Full-Stack Developer",
-  focus:      ["Next.js", "TypeScript", "MERN", "Real-time Systems", "AI-assisted UX"],
-  currently:  ["Intern @ Akatsuki AI", "LFX '25 — Linux Kernel"],
+  name:        "Yash Sheorey",
+  institute:   "IIIT Jabalpur · B.Tech '27",
+  role:        "Full-Stack Developer",
+  focus:       ["Next.js", "TypeScript", "MERN", "FastAPI", "Real-time Systems", "AI-integrated UX"],
+  currently:   ["Intern @ Akatsuki AI", "LFX '25 — Linux Kernel"],
   competitive: "3⭐ CodeChef | Rating 1638",
-  openTo:     ["GSoC", "LFX", "Open-Source", "SDE Internships"],
+  openTo:      ["GSoC", "LFX", "Open-Source", "SDE Internships"],
 };
 ```
 
-I build systems that are **fast by design** and **maintainable by default**.
-My stack skews TypeScript-heavy across the whole surface — from Next.js SSR to Socket.IO backends to typed MongoDB schemas. I've shipped a real-time collaborative platform (276+ commits), contributed to Linux kernel via LFX, and built AI-integrated tools using Gemini + OpenAI APIs. I don't just consume frameworks — I understand what's under them.
+I build systems that are **fast by design** and **maintainable by default.**
+My stack is TypeScript-heavy end-to-end — Next.js SSR, Socket.IO backends, typed MongoDB + PostgreSQL schemas, FastAPI services. I've shipped a real-time collaborative platform (276+ commits), a dual-role AI diet planning system with JWT auth + Docker infra, a food intelligence scanner with ArmorIQ + Gemini AI pipeline, and contributed to Linux kernel via LFX. I don't just consume frameworks — I understand what's under them.
 
 ---
 
@@ -57,32 +57,40 @@ My stack skews TypeScript-heavy across the whole surface — from Next.js SSR to
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
-**Backend & DB**
+**Backend & APIs**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+**Databases**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**Auth & Cloud**
+**Auth, AI & Cloud**
 
+![Firebase](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-**Tools & Platforms**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
 
 </div>
 
@@ -97,7 +105,7 @@ My stack skews TypeScript-heavy across the whole surface — from Next.js SSR to
 ### [⚡ VibexCode](https://github.com/Flashl3opard/VibexCode)
 **Real-time collaborative group chat & forum platform**
 
-Full-featured messaging system with Socket.IO websockets, dual-auth (Appwrite + Firebase with social login), image sharing, light/dark UI, and editable profiles. Dockerized and deployed on Netlify. **276+ commits** — production-grade codebase.
+Full-featured messaging with Socket.IO websockets, dual-auth via Appwrite + Firebase (incl. social login), image sharing, light/dark UI, and editable profiles. Dockerized and deployed. **276+ commits** — production-grade sustained work.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
@@ -105,7 +113,41 @@ Full-featured messaging system with Socket.IO websockets, dual-auth (Appwrite + 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-⭐ 2 · 🍴 6 · [Live Demo](https://vibexcode.netlify.app/)
+⭐ 2 · 🍴 6 · [Live →](https://vibexcode.netlify.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### [🍎 BiteSpy](https://github.com/Flashl3opard/bitespy)
+**Food intelligence scanner — Truth-o-Meter for your groceries**
+
+Scan product → 5-question flow → AI-powered ingredient breakdown, health alerts, and ranked alternatives. ArmorIQ SDK + MCP agents → Gemini. Multi-DB architecture: Firebase Auth + MongoDB Atlas + Firestore, all playing distinct roles.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+[View Repo →](https://github.com/Flashl3opard/bitespy)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [🥗 Ojas.AI](https://github.com/Flashl3opard/ojasai)
+**Production-grade AI diet planning platform**
+
+Role-based system for dietitians and patients. Dietitians generate AI meal plans, log patient progress, export PDFs. Patients track macros, weight chart, weekly planner, and grocery lists. FastAPI + PostgreSQL + Redis backend. Full Docker infra, JWT auth, OpenAI + deterministic fallback planner.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+[View Repo →](https://github.com/Flashl3opard/ojasai)
 
 </td>
 <td width="50%" valign="top">
@@ -113,44 +155,14 @@ Full-featured messaging system with Socket.IO websockets, dual-auth (Appwrite + 
 ### [🌤️ Weather AI Chatbot](https://github.com/Flashl3opard/Weather-AI-Chatbot)
 **Voice-first bilingual AI weather assistant**
 
-Japanese + English voice input weather assistant powered by WeatherAPI, Google Gemini, and OpenAI TTS. Minimal UI, real NLP pipeline, and actual API orchestration — not a toy. Built with Next.js, focused on sub-second response flows.
+Japanese + English voice input assistant using WeatherAPI, Google Gemini, and OpenAI TTS. Minimal UI, real NLP pipeline, sub-second API orchestration. An actual multi-API integration — not a chatbot wrapper.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_TTS-412991?style=flat-square&logo=openai&logoColor=white)
 
-⭐ 1 · [View Repo](https://github.com/Flashl3opard/Weather-AI-Chatbot)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [🧱 Structify](https://github.com/Flashl3opard/structify)
-**Next.js scaffold & structure generator**
-
-A developer tool for generating typed Next.js project structures with enforced conventions. Designed to eliminate boilerplate setup and enforce scalable folder architecture. Typed end-to-end with TypeScript.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-⭐ 1 · [View Repo](https://github.com/Flashl3opard/structify)
-
-</td>
-<td width="50%" valign="top">
-
-### [🎨 Portfolio](https://github.com/Flashl3opard/portfolio-YashSheorey)
-**Personal developer portfolio — TypeScript + Next.js**
-
-Clean, performant personal site showcasing projects, skills, and technical writing. SSR-optimized with Next.js App Router, Tailwind design system, and zero-dependency architecture where possible.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-⭐ 1 · [View Repo](https://github.com/Flashl3opard/portfolio-YashSheorey)
+[View Repo →](https://github.com/Flashl3opard/Weather-AI-Chatbot)
 
 </td>
 </tr>
@@ -199,10 +211,11 @@ Clean, performant personal site showcasing projects, skills, and technical writi
 ## 🎯 Current Focus
 
 ```
-├── 🐧  Linux Kernel — LFX Mentorship 2025 (systems-level C, patch workflow, kernel internals)
+├── 🐧  Linux Kernel — LFX Mentorship 2025 (systems C, patch workflow, kernel internals)
 ├── 🤖  AI product development @ Akatsuki AI
-├── ⚡  Shipping VibexCode v2 — performance & feature expansion
-└── 📐  Structify — making opinionated Next.js scaffolding smarter
+├── 🍎  BiteSpy — connecting the real MCP backend + refining AI report UX
+├── 🥗  Ojas.AI — Alembic migrations, HTTPS hardening, structured logging
+└── ⚡  VibexCode v2 — performance + feature expansion
 ```
 
 ---
@@ -216,6 +229,7 @@ Clean, performant personal site showcasing projects, skills, and technical writi
 ![Quickdraw](https://img.shields.io/badge/Quickdraw-22c55e?style=for-the-badge&logo=github&logoColor=white)
 ![CodeChef 3★](https://img.shields.io/badge/CodeChef_3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
 ![LFX 2025](https://img.shields.io/badge/LFX_Mentee_2025-003399?style=for-the-badge&logo=linux&logoColor=white)
+![Akatsuki AI](https://img.shields.io/badge/Intern_@_Akatsuki_AI-cc0000?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
