@@ -17,7 +17,7 @@
 
 ```ts
 const yash: Engineer = {
-  institute:   "IIIT Jabalpur · B.Tech CSE '27",
+  institute:   "IIIT Jabalpur · B.Tech'27",
   stack:       ["Next.js", "TypeScript", "MERN", "FastAPI", "Socket.IO"],
   currently:   [
     "C4GT DMP '26  →  React ops frontend @ Mifos Initiative",
