@@ -7,7 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-sheorey-94661b28b/)
-[![LeetCode](https://img.shields.io/badge/LeetCode_1638-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/sheoreyyash/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/sheoreyyash/)
 [![GitHub](https://img.shields.io/badge/51+_repos-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Flashl3opard?tab=repositories)
 [![Profile Views](https://komarev.com/ghpvc/?username=Flashl3opard&label=views&color=475569&style=flat-square)](https://github.com/Flashl3opard)
 
